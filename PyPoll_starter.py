@@ -105,16 +105,3 @@ with open(file_to_output, "w") as txt_file:
     # Update the winning candidate if this one has more votes
     csvwriter.writerow(["Winner: " + str((Winner_list[0])[0])])
     csvwriter.writerow(["-------------------------"])
-
-
-
-
-
-
-
-     
-
-
-    
-
-  
